@@ -78,6 +78,8 @@ github.com/DataDog/datadog-go v2.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/zstd v1.4.6-0.20210211175136-c6db21d202f4 h1:++HGU87uq9UsSTlFeiOV9uZR3NpYkndUXeYyLv2DTc8=
 github.com/DataDog/zstd v1.4.6-0.20210211175136-c6db21d202f4/go.mod h1:g4AWEaM3yOg3HYfnJ3YIawPnVdXJh9QME85blwSAmyw=
+github.com/Evanzhang211/benthos-plugin-example v0.0.0-20210726185646-3ea4e07a7b48 h1:jtxpDDFuFUR1tmb6Qv03wZrbig5LX+YANGgI2eOJH54=
+github.com/Evanzhang211/benthos-plugin-example v0.0.0-20210726185646-3ea4e07a7b48/go.mod h1:q5LSuaacX1rhpe/iOAy0moai/gXYHen6++QMc/iK19o=
 github.com/HdrHistogram/hdrhistogram-go v1.1.0 h1:6dpdDPTRoo78HxAJ6T1HfMiKSnqhgRRqzCuPshRkQ7I=
 github.com/HdrHistogram/hdrhistogram-go v1.1.0/go.mod h1:yDgFjdqOqDEKOvasDdhWNXYg9BVp4O+o5f6V/ehm6Oo=
 github.com/Jeffail/benthos/v3 v3.51.0/go.mod h1:LkDi3FvFzCTc5CfFRh0NYpGiknEU4/pnHNAg6LHwh0Y=
@@ -141,8 +143,6 @@ github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd3
 github.com/beefsack/go-rate v0.0.0-20180408011153-efa7637bb9b6/go.mod h1:6YNgTHLutezwnBvyneBbwvB8C82y3dcoOj5EQJIdGXA=
 github.com/benhoyt/goawk v1.6.1 h1:mTGm44ARS4zSQd4IB+2Ea+6Eo0lX4bId30q5+TfVVDc=
 github.com/benhoyt/goawk v1.6.1/go.mod h1:UKzPyqDh9O7HZ/ftnU33MYlAP2rPbXdwQ+OVlEOPsjM=
-github.com/benthosdev/benthos-plugin-example v0.0.0-20210726185646-3ea4e07a7b48 h1:v8qVnDza/92BF6clQusLgZVvBrR/Awlvr51+b1WJPgA=
-github.com/benthosdev/benthos-plugin-example v0.0.0-20210726185646-3ea4e07a7b48/go.mod h1:q5LSuaacX1rhpe/iOAy0moai/gXYHen6++QMc/iK19o=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+CedLV8=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=

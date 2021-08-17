@@ -1,0 +1,15 @@
+input:
+  type: stdin
+
+pipeline:
+  processors:
+    - bloblang: root = content().uppercase()
+    - throttle:
+        period: 1s
+    - reverse: { }
+    - bloblang: |
+        root.gibberish = content()
+        root.more_stuff = crazy_object(10).into_object("foo")
+
+output:
+  type: stdout
