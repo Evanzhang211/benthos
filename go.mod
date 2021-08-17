@@ -20,6 +20,7 @@ require (
 	github.com/aws/aws-lambda-go v1.20.0
 	github.com/aws/aws-sdk-go v1.38.65
 	github.com/benhoyt/goawk v1.6.1
+	github.com/benthosdev/benthos-plugin-example v0.0.0-20210726185646-3ea4e07a7b48 // indirect
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.0
@@ -101,5 +102,7 @@ require (
 
 // This stinks, and is due to https://github.com/99designs/keyring/issues/64
 replace github.com/keybase/go-keychain => github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4
+
+replace github.com/benthosdev/benthos-plugin-example => github.com/Evanzhang211/benthos-plugin-example v0.0.0-20210726185646-3ea4e07a7b48
 
 go 1.16
