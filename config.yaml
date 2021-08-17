@@ -11,5 +11,6 @@ pipeline:
         root.gibberish = content()
         root.more_stuff = crazy_object(10).into_object("foo")
 
+
 output:
   type: stdout
